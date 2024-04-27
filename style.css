@@ -1,0 +1,17 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+.btn-link {
+    font-weight: 400;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(249, 223, 94);
+}
+
+.btn-link:hover {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(221, 198, 84);
+    font-weight: 400;
+}
